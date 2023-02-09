@@ -6,7 +6,7 @@ Es por esto, que me involucre en el mundo de la programacion, para poder plasmar
 crear algo que realmente sea atractivo/funcional para el ojo humano.
 Dispuesto a seguir esforzandome cada dia para mejorar, ser un gran profesional, y mejor persona.
 
-Entrando a mi repositorio, te vas a encontrar con mis proyectos y con mi progreso en este mundo ⚡ 
+Entrando a mi repositorio, te vas a topar con mis proyectos y con mi progreso en este mundo ⚡ 
 
 ¡Saludos! 😄
 
