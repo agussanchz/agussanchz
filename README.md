@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola 👋
+## Soy agustin, desarrolador frontend!
+Me llama mucho la atencion la capacidad de nuestra mente cuando se pone a jugar
+con el diseño, los colores, estetica y funcionalidad de una plataforma digital.
+Es por esto, que me involucre en el mundo de la programacion, para poder plasmar mis ideas e intentar
+crear algo que realmente sea atractivo/funcional para el ojo humano.
+Dispuesto a seguir esforzandome cada dia para mejorar, ser un gran profesional, y mejor persona.
 
 <!--
 **agussanchz/agussanchz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
