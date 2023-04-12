@@ -1,5 +1,5 @@
 ### Hola 👋
-## Soy agustin, desarrolador frontend!
+## ¡Soy Agustin!
 Me llama mucho la atencion la capacidad de nuestra mente cuando se pone a jugar
 con el diseño, los colores, estetica y funcionalidad de una plataforma digital.
 Es por esto, que me involucre en el mundo de la programacion, para poder plasmar mis ideas e intentar
