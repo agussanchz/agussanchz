@@ -4,7 +4,6 @@ Me llama mucho la atencion la capacidad de nuestra mente cuando se pone a jugar
 con el diseño, los colores, estetica y funcionalidad de una plataforma digital.
 Es por esto, que me involucre en el mundo de la programacion, para poder plasmar mis ideas e intentar
 crear algo que realmente sea atractivo/funcional para el ojo humano.
-Dispuesto a seguir esforzandome cada dia para mejorar, ser un gran profesional, y mejor persona.
 
 Entrando a mi repositorio, te vas a topar con mis proyectos y con mi progreso en este mundo ⚡ 
 
