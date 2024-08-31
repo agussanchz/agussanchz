@@ -1,13 +1,6 @@
 ### Hola 👋
 ## ¡Soy Agustin!
-Me llama mucho la atencion la capacidad de nuestra mente cuando se pone a jugar
-con el diseño, los colores, estetica y funcionalidad de una plataforma digital.
-Es por esto, que me involucre en el mundo de la programacion, para poder plasmar mis ideas e intentar
-crear algo que realmente sea atractivo/funcional para el ojo humano.
-
-Entrando a mi repositorio, te vas a topar con mis proyectos y con mi progreso en este mundo ⚡ 
-
-¡Saludos! 😄
+Me encuentro en constante aprendizaje combinando proyectos personales y trabajos freelance para mejorar mis habilidades como programador.
 
 <!--
 **agussanchz/agussanchz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
